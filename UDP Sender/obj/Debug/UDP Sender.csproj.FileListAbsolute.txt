@@ -1,0 +1,7 @@
+Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\bin\Debug\UDP Sender.exe.config
+Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\bin\Debug\UDP Sender.exe
+Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\bin\Debug\UDP Sender.pdb
+Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\obj\Debug\UDP Sender.csprojAssemblyReference.cache
+Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\obj\Debug\UDP Sender.csproj.CoreCompileInputs.cache
+Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\obj\Debug\UDP Sender.exe
+Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\obj\Debug\UDP Sender.pdb
