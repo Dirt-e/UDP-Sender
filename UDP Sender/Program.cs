@@ -13,21 +13,18 @@ namespace UDP_Sender
         {
             string Message;
             int FromPort = 9999;
-            string ToIP = "127.0.0.1";
             int ToPort = 10000;
+            string ToIP = "127.0.0.1";
+
+            UdpClient MyClient = new UdpClient(FromPort);
+
             while (true)
             {
                 Message = Console.ReadLine();
-                SendUdp(FromPort, ToIP, ToPort, Message) ;
+
+                byte[] bytes = Encoding.ASCII.GetBytes(Message);
+                MyClient.Send(bytes, bytes.Length, ToIP, ToPort);
             }
-        }
-
-        static void SendUdp(int srcPort, string dstIp, int dstPort, string msg)
-        {   
-            byte[] bytes = Encoding.ASCII.GetBytes(msg);
-
-            using (UdpClient c = new UdpClient(srcPort))
-                c.Send(bytes, bytes.Length, dstIp, dstPort);
         }
     }
 }
