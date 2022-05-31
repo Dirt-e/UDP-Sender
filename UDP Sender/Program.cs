@@ -11,18 +11,17 @@ namespace UDP_Sender
     {
         static void Main()
         {
-            string Message;
-            int FromPort = 9999;
-            int ToPort = 10000;
+            int ToPort = 31090;
             string ToIP = "127.0.0.1";
 
-            UdpClient MyClient = new UdpClient(FromPort);
+            UdpClient MyClient = new UdpClient();
+            Console.WriteLine($"Sending on port {ToPort}.");
 
             while (true)
             {
-                Message = Console.ReadLine();
-
+                string Message = Console.ReadLine();
                 byte[] bytes = Encoding.ASCII.GetBytes(Message);
+
                 MyClient.Send(bytes, bytes.Length, ToIP, ToPort);
             }
         }

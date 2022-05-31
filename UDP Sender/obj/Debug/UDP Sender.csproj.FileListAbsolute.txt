@@ -5,3 +5,11 @@ Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\obj\Debug\UDP Sender.csprojA
 Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\obj\Debug\UDP Sender.csproj.CoreCompileInputs.cache
 Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\obj\Debug\UDP Sender.exe
 Z:\OneDrive\Frank - PC\GitHub\UDP Sender\UDP Sender\obj\Debug\UDP Sender.pdb
+D:\OneDrive\Frank - PC\GitHub\UDP-Sender\UDP Sender\bin\Debug\UDP Sender.exe.config
+D:\OneDrive\Frank - PC\GitHub\UDP-Sender\UDP Sender\bin\Debug\UDP Sender.exe
+D:\OneDrive\Frank - PC\GitHub\UDP-Sender\UDP Sender\bin\Debug\UDP Sender.pdb
+D:\OneDrive\Frank - PC\GitHub\UDP-Sender\UDP Sender\obj\Debug\UDP Sender.csproj.AssemblyReference.cache
+D:\OneDrive\Frank - PC\GitHub\UDP-Sender\UDP Sender\obj\Debug\UDP Sender.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Frank - PC\GitHub\UDP-Sender\UDP Sender\obj\Debug\UDP Sender.csproj.CoreCompileInputs.cache
+D:\OneDrive\Frank - PC\GitHub\UDP-Sender\UDP Sender\obj\Debug\UDP Sender.exe
+D:\OneDrive\Frank - PC\GitHub\UDP-Sender\UDP Sender\obj\Debug\UDP Sender.pdb
